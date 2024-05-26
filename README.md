@@ -1,1 +1,1 @@
-# SI_2024_lab2_223186
+Andrej Zaevski 223186
